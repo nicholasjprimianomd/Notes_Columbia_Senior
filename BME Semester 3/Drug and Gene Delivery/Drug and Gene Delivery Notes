@@ -10,8 +10,8 @@ systemic exposure)
   -Only 5% of drug from eye drops enters the eye
 -Transdermal Delivery Device
   -Attractive for hormonal delivery
-  -Consists of a backing film, drug reservoir, microporous membrane, release disk,
-  adhesive, and release layer
+  -Consists of a backing film, drug reservoir, microporous membrane,
+  release disk, adhesive, and release layer
   -Patch may last up to one week
   -Only a small class of compounds can get through the dermal layer
     -Durg must have a low molecular weight and be lipophilic
@@ -24,3 +24,25 @@ systemic exposure)
         causes high local acidity (must be quickly cleared by the body)
       -Therapudic index of a drug is ratio of the toxic concentration to the
       effective concentration
+-Cell membrane is negatively charged so only positively charged molecules will
+enter the cell
+  -The cell membrane is made of a phospholipid bilayer so polar compounds
+  cannot enter
+  Gene Delivery Systems:
+    -One solution is chemical modification or conjunction
+    -Viral vectors (there is a gene therapy viral product on the market)
+    -Nonviral vectors (polyplex, lioplex, liopsome, micelles)
+Pros and Cons of Drug vs. Gene Delivery
+-Durgs
+  -No type of compound limitation
+  -More predictable temporal and spatial profile
+  -Some damage of bioactivity
+  -Formulation required
+-Gene
+  -Limited to proteins (control at the molecular level and applicable to
+  non-soluble factors)
+  -More difficult to control rate, level, and duration
+  -Bioactive; may act in paracrine (local region) manner
+  -Simple; convenient in evaluating new factors but hard to develop into a
+  product because of the possibility of making other unwanted changes to the
+  genome

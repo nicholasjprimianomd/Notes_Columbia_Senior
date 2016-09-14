@@ -20,9 +20,9 @@ systemic exposure)
       -Miconeedles are very small and solid or dissolvable
       -Dissolvable might be made of PLA, PGA, or PLGA (bulk degrading)
         -Degrade in lactic acid and glycolic acid
-        -These are products of the Krebs cycle and glycolysis (biocompatibe) but
+        -These are products of the Krebs cycle and glycolysis (biocompatible) but
         causes high local acidity (must be quickly cleared by the body)
-      -Therapudic index of a drug is ratio of the toxic concentration to the
+      -Therapeutic index of a drug is ratio of the toxic concentration to the
       effective concentration
 -Cell membrane is negatively charged so only positively charged molecules will
 enter the cell
@@ -31,9 +31,9 @@ enter the cell
   Gene Delivery Systems:
     -One solution is chemical modification or conjunction
     -Viral vectors (there is a gene therapy viral product on the market)
-    -Nonviral vectors (polyplex, lioplex, liopsome, micelles)
+    -Non-viral vectors (polyplex, lioplex, liopsome, micelles)
 Pros and Cons of Drug vs. Gene Delivery
--Durgs
+-Drugs
   -No type of compound limitation
   -More predictable temporal and spatial profile
   -Some damage of bioactivity
@@ -51,7 +51,46 @@ Pros and Cons of Drug vs. Gene Delivery
   -For diabetes this ratio is not favorable because people can live almost
   normal lives without gene therapy
 -Viral delivery is more efficient because they have mechanisms to get into cells
--Both viral and non-virval vectors have poor targeting efficiently
--Virval vectors have limited packing size
--Toxcitiy/Immunigenicity are concerns with viral vectors
+-Both viral and non-viral vectors have poor targeting efficiently
+-Viral vectors have limited packing size
+-Toxicity/Immunogenicity are concerns with viral vectors
 9/14/16
+-DNA Vaccination
+  -Introduce only the antigen protein without the unwanted side effects
+  associated with bacterial and viral vaccines
+  -Express the antigen in its native form for optimal processing and presentation
+  -DNA Vaccines are not immunogenic
+-Toxicity and therapeutics are often two sides on the same coin
+  -Dosage is very important
+  -(Don't drink 10L of water quickly, you will die...wtf?)
+-Combination therapy targets multiple pathways to inhibit growth of tumor
+cells
+  -Kill tumor vasculature to trap drug in the tumor
+  -Combination therapy presents a challenge to drug delivery because each drug
+  will have different properties (how do you maintain the correct ratio and
+  release rate of each drug?)
+-Drug Delivery Device: Implantable Osmotic Pump (very successful)
+  -dM/dt = A/L lambda*(sigma*delta PI)*C
+-Implantable Insulin Pump
+  -Attractive because it remove the need for painful daily injections
+  -Challenging because tissue grows and blocks the catheter
+  -Hard to pack a large dose an insulin in the pump
+  -Must be refillable pump and rechargeable battery
+  -Currently in development
+-Compartmental Models of Pharmacokinetics
+  - -kM = dm/dt
+  - M = mass in the compartment
+  - k = first-order elimination constant
+  - M = M0*e^(-kt)
+  - c = (M0/Vd)*e^(-kt)
+  - c = concentration in the compartment
+  - Vd = volume of distribution
+  -IN pharmacology, the volume of distribution is the theoretical volume that
+  would be necessary to contain the total amount of an administer drug at the
+  same concentration that it is observed in the blood plasma
+-Absorption throughout the GI tract or leakage into circulation after
+subcutaneous injection
+  - dM/dt = kaD - kM
+ - D = dose in abbsorbtion compartment
+ - ka = first-order rate constant
+ - dD/dt = -kaD

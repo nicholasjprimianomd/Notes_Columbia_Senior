@@ -85,13 +85,13 @@ cells
   - c = (M0/Vd)*e^(-kt)
   - c = concentration in the compartment
   - Vd = volume of distribution
-  -IN pharmacology, the volume of distribution is the theoretical volume that
+  -In pharmacology, the volume of distribution is the theoretical volume that
   would be necessary to contain the total amount of an administer drug at the
   same concentration that it is observed in the blood plasma
 -Absorption throughout the GI tract or leakage into circulation after
 subcutaneous injection
   - dM/dt = kaD - kM
- - D = dose in abbsorbtion compartment
+ - D = dose in absorption compartment
  - ka = first-order rate constant
  - dD/dt = -kaD
 -Now he goes to Africa with massive differential equations. Useless to try and

@@ -8,16 +8,16 @@ Nutrients
 -Once food is acquired food is mechanically processed
 -After mechanical processing food is chemically processed in enzymes and acids
 so that it can be used for energy.
-    -Extracelluar digestion: chemical processing that takes places in the body
+    -Extracellular digestion: chemical processing that takes places in the body
     but outside cells
         -Takes places in a thin piece of tissues that covers a structure or
-        lines a cavity (galnds digestive epithlia)
+        lines a cavity (glands digestive epithelia)
         -Digestive juices
         -All animals use this
     -Intracellular digestion: chunks of food are engulfed by cells through
     endocytosis and packaged in digestive vacuoles
       -Only simple animals use intracellular digestion
--AFterfood is process mechanically and chemically food is absorbed across
+-After food is processed mechanically and chemically food is absorbed across
 the digestive epithelia which typically has a greatly enlarged surface
 (exchange surface).
 -Exchange surfaces always have an interface with the circulatory system for
@@ -25,7 +25,7 @@ distribution.
 -Finally undigested waste is eliminated.
 
 II. Digestive Systems: Structural View
-  A. Digestive  Cavity = gastrovascular civility
+  A. Digestive Cavity = gastrovascular cavity
     1.Hydra
     2. Flatworm
       a.These animals are built like a sack with only a single opening
@@ -33,8 +33,8 @@ II. Digestive Systems: Structural View
         ii. Digestive skin that lines the  gastrovascular cavity is .....
         iii. Gland cells release enzymes to chemically process food
         (extracellular)
-        iv. can not chew
-        v. two types of cell in the gastrovascular: one for secretion of
+        iv. cannot chew
+        v. two types of cells in the gastrovascular: one for secretion of
         digestive juices and one for abortion
 
     B. Digestive Track = food moves in one direction
@@ -42,7 +42,7 @@ II. Digestive Systems: Structural View
       2. Food enters through the mouth, is deconstructed, and exits through the
       anus
         i. Mouth, esophagus, crop (storage so more food can be collected before
-        it is processed), gizzard (muscualar organ that future mechanically
+        it is processed), gizzard (muscular organ that future mechanically
         processed food), stomach, intestine (furthuer processed and absorbed)
 III. Herbivores: Animals that feed on mostly plants
   A. Problems using plants as food
@@ -190,6 +190,96 @@ hormones are also transported by the circulatory system
   -Closed circuit: vascular fluid always in vesicles
     -Blood is distinct from the interstitial fluid
 -Circulatory Circuits
-  -Pulmonary/pulmocutaneous (02 through skin)
+  -Pulmonary/pulmocutaneous (O2 through skin)
     -02 acquiring
   -Systemic (delivery part)
+9/16/16
+-Circulatory System in Invertebrates
+  -Mollusks
+    -Most (snail, clam, muscle): open circulatory system
+    -Cephalopod (octopus, squid): gill heart creates high hydrostatic pressure
+      -Close circulatory system
+  -Insects
+    -Tracheal system in insects: collect O2 from the air
+    -Circulatory system does not deliver 02
+-Circulation in vertebrates
+    -All closed
+    -Pulmonary Circuit
+      -Fishes
+        -Chambered (2) heart arranged in series
+        -From the heart the blood flows under high pressure to the gills
+        -Then the blood flows under low pressure to systemic circuit
+  -Circulation in Amphibians
+    -Parallel circuits all tetrapods
+    -Blood reaches tissue under high pressure
+    -Two atria at the top and one ventricle (pumping chamber)
+    -There is some mixing of oxy and deoxy blood because there is only one
+    ventricle
+-Circulation in Mammals and birds
+    -Two atria and two ventricles
+    -No mixing of oxy and deoxy blood
+    -Most efficient delivery of 02 throughout the body
+-The circulatory system's function in transport of blood/hemolymph
+-Fluid compartments
+    -blood/hemolymph carries various molecules (hormones, 02)
+    -lymph/lymphatic: set of structures that recovers excess water
+    -Interstitial fluid: body fluid between structures
+    -Intracellular fluid
+        -Free exchanges of water and small molecules between each of these
+        compartments
+-Composition of blood
+  -Classified as a connective tissue (embedded in a matrix)
+    -In the case of blood the matrix is called plasma (90% water and lots of
+    solutes)
+      -Solutes
+        -Plasma proteins (large molecules) which stay in vessels, contribute to
+        osmotic pressure, maintain blood viscosity, maintain blood pH, carry
+        fats, participate in immune response, assist in blood flow
+        -Inorganic Ions: electrolytes, organic nutrients (glucose, amino acids,
+        fatty acids, dissolved gasses/CO2/O2) nitrogen waste products, hormones
+          -Like interstitial fluid
+    -Cellular components
+      -Erythrocytes: red blood cells
+        -Made in bone marrow, destroyed in liver and spleen
+        -No nucleus and no internal structures
+        -Disk-shaped cells meant to carry 02
+      -Leukocytes
+        -Larger than red blood cells
+        -Diverse types
+        -Immune response
+      -Platelets
+         -Cell fragments
+         -Initiate clotting
+-Respiratory Pigments
+    -Protein bound to an organic molecules and a metal atom
+      -In vertebrates its called hemoglobin Hb
+        -Metal atom in iron (red color)
+        -250*10^6 molecule per RBC
+        -Contained in RBC to maintain blood viscosity and molality
+      -In invertebrates: hemoXXXXX
+        -Metal atom is copper (gives green color)
+-Hb
+    -Uptake of O2 (loading)
+    -Release of O2 (unloading)
+-Function of Respiratory
+    -Partial press of a gas : the fraction of the total pressure of a gas
+    mixture that can be  attributed to one component of a mixture
+    P_O2 = P_air * %O2
+    P_O2 = P_air * 20%
+    -O2 dissociation curve
+      -How much O2 carried is the % saturation
+        -% saturation is a function of the partial pressure of a gas
+        -Graph
+          -% Saturation (y axis / dependent variable) vs Partial Pressure O2 (x
+          axis / independent variable)
+          -Hb is response to pH called the Bohr effect (Bohr shift: shifted
+          right)
+            -At low pH Hb holds less O2
+            -Acidity lowers the affinity for O2
+            -Gives up O2 to active tissues
+-CO2 Elimination
+    -Acidosis
+      - C02 + H2O <-> H2CO3 (carbonic acid) <-> H+ + HCO3 (bicarbonate)
+      -Blood can buffer itself
+        -Buffering increase ability to absorb H+
+        -CO2 occurs at low concentration in the atmosphere and is easy to lose

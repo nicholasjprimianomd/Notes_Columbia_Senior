@@ -431,5 +431,31 @@ hormones are also transported by the circulatory system
     -Resting (basal/standard) metabolic rate
     -RMR is a volume of O_2 consumed per unit time.
     -Symbol is Vdot_O2
-  -If an ectotherm is not thermogregulated its Tb will increase as Te increases
-  
+  -If an ectotherm is not thermoregulated its Tb will increase as Te increases
+  -Endotherms (humans) lose heat to the outside world
+	-At low environmental temperature metabolic rate is increased
+	-Endothermy is expensive
+9/28/16
+-Integration
+	-Nervous System
+	 	-Collects information inside and outside the body
+		-Processes or integrates information
+		-Responds to information
+		-Afferent: collects information, transfer it to the CNS
+		-Central Nervous System: which integrates it
+		-Efferent/Effectors: acts on CNS instructions
+	-Neuron
+		-Sensory, motor, CNS neuron
+		-Cell body region that has the nucleus 
+		-Dendrites extension of the neuron that collects information 		and carries it to the cell body
+		-Axon transmitting part that carries information out of the 		neuron through the axon terminal (to the next neuron
+	-Sensory Neurons
+		-Usually have dendrites pointing in one direction (direction 		of information)
+	-Interneuron (CNS)
+		-Have wondering/collecting dendrites
+	-Motor neurons
+-Carry information form the CNS out to cells to illicit a response
+	-Supporting Cells
+		
+	
+
